@@ -1,0 +1,17 @@
+.app {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-image: url(bg.png);
+  background-size: 100%;
+}
+
+.quan-xuat-hien {
+  width: 100px;
+  height: 100px;
+}
+
+.quan-cuoc {
+  width: 150px;
+  height: 150px;
+}
